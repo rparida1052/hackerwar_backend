@@ -4,6 +4,8 @@
   "description": "Development of business models for collection and utilization of single use plastics and various other industrial wastes",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
+    "build":"",
     "dev": "nodemon index.js"
   },
   "author": "bug.breach",
